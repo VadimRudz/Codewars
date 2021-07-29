@@ -4,7 +4,7 @@ public class Accumul {
 	
 	public static String accum(String str) {
 		
-		String [] arrayString = str.split(""); 
+		String [] arrayString = str.split("") ; 
 		String resultString="";
 		
 		for(int i =0; i< arrayString.length; i++){
