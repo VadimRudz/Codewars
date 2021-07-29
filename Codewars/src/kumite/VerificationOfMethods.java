@@ -1,6 +1,6 @@
 package kumite;
 
-public class verificationOfMethods {
+public class VerificationOfMethods {
 
 	public static void main(String[] args) {
 		String str_1 = "Hi";
