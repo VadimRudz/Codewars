@@ -1,4 +1,4 @@
-package kata;
+package kumite;
 
 import java.util.ArrayList;
 //убирает одинаковые символы в строках

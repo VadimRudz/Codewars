@@ -26,7 +26,7 @@ public class Accumul {
 		
 		System.out.println(accum("ZpglnRxqenU"));
 		
-		String str_1 = "hello";
+		String str_1 = "hello ";
 		String str_2 = "it is me";
 		String str_4 = "can you hear me?";
 		String str_3 = String.join(",", str_1, str_2, str_4);

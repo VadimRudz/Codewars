@@ -1,4 +1,4 @@
-package kata;
+package kumite;
 
 public class Maskify {
     public static String maskify(String str) {

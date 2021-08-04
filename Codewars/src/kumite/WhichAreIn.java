@@ -1,4 +1,4 @@
-package kata;
+package kumite;
 
 import java.util.Arrays;
 import java.util.SortedSet;
