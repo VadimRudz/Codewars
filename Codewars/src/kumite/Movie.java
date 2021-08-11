@@ -7,7 +7,7 @@ public class Movie {
 		double priceB = card;
 		int count = 0;
 		
-		while (Math.ceil(priceB) > priceA) {
+		while (Math.ceil(priceB) >= priceA) {
 			
 			count++;
 			
