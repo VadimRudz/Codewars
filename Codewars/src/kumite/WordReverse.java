@@ -14,20 +14,17 @@ public class WordReverse {
 			
 			if(original.charAt(i) != ' '){
 				stackVariable += original.charAt(i);
-				//System.out.println(stackVariable);
 				
 				if(i==original.length()-1){
 					arrayWords.add(stackVariable);
 				}
 			}
 			else {
-				//System.out.println(stackVariable);
 				arrayWords.add(stackVariable);
 				stackVariable = "";
 				arrayWords.add(" ");
 			}	
 		}
-		//System.out.println(arrayWords.toString());
 		String returnString = "";
 		
 		for(String str:arrayWords){

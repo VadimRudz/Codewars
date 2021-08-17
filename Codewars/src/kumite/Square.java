@@ -6,8 +6,7 @@ public class Square {
 		
 	return	Math.sqrt(n)%1 == 0 ? true : false; 
     }
-	
-	
+
 	public static void main(String[] args) {
 		
 		System.out.println(isSquare(0));
