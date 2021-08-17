@@ -28,8 +28,7 @@ public class InParts {
 		}
 
 		return theEndString;
-        
-		
+	
     }
 	
 	
