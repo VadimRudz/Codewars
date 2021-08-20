@@ -12,7 +12,6 @@ public class Vowels {
 	    	if(ch == 'a' || ch == 'e'|| ch =='i' ||ch == 'o'||ch =='u') {
 	    		vowelsCount++;
 	    	}
-	    	
 	    }
 	    return vowelsCount;
 	  }
