@@ -29,5 +29,4 @@ public class TwoToOne {
 		System.out.println(longest("inmanylanguages", "theresapairoffunctions"));
 
 	}
-
 }
